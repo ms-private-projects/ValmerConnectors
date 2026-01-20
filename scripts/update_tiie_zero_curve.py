@@ -12,8 +12,7 @@ def main():
         CurveConfig(
             curve_const="ZERO_CURVE__VALMER_TIIE_28",
             name="Discount Curve TIIE 28 Mexder Valmer",
-            # If your builder needs a dependency node with curve points, set it here:
-            # curve_points_dependency_node_uid="YOUR_POINTS_NODE_UID",
+
         ),
     ]
 
